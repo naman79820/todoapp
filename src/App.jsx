@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <div className='h-fit w-screen bg-violet-200 pb-10'>
+    <div className='w-screen h-screen  bg-violet-200 overflow-x-hidden'>
   <Navbar/>
   <Content/>
   </div>
